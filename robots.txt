@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://dragon3.github.com/sitemap.xml 
